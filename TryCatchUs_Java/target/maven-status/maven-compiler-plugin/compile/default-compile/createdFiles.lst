@@ -1,0 +1,9 @@
+com\nice\coday\CSVReader.class
+com\nice\coday\ElectricityConsumptionCalculator.class
+com\nice\coday\DataPrinter.class
+com\nice\coday\ConsumptionResult.class
+com\nice\coday\ResourceInfo.class
+com\nice\coday\VehicleInfo.class
+com\nice\coday\ConsumptionDetails.class
+com\nice\coday\TripInfo.class
+com\nice\coday\ElectricityConsumptionCalculatorImpl.class
