@@ -24,26 +24,5 @@ public class VehicleInfo {
         return mileage;
     }
 
-    // Setters (if needed)
-//    public void setVehicleType(String vehicleType) {
-//        this.vehicleType = vehicleType;
-//    }
-//
-//    public void setNumberOfUnitsForFullyCharge(int units) {
-//        this.numberOfUnitsForFullyCharge = units;
-//    }
-//
-//    public void setMileage(int mileage) {
-//        this.mileage = mileage;
-//    }
-
-    @Override
-    public String toString() {
-        return "VehicleInfo{" +
-                "vehicleType='" + vehicleType + '\'' +
-                ", numberOfUnitsForFullyCharge=" + numberOfUnitsForFullyCharge +
-                ", mileage=" + mileage +
-                '}';
-    }
 }
 

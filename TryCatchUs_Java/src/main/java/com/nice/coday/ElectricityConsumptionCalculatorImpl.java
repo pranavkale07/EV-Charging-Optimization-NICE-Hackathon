@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.util.*;
 
 public class ElectricityConsumptionCalculatorImpl implements ElectricityConsumptionCalculator {
-    private final CSVReader csvReaderUtil = new CSVReader();
     @Override
     public ConsumptionResult calculateElectricityAndTimeConsumption(ResourceInfo resourceInfo) throws IOException {
 

@@ -1,11 +1,11 @@
 package com.nice.coday;
 
 public class TripInfo {
-    private int id;
-    private String vehicleType;
-    private double remainingBatteryPercentage;
-    private String entryPoint;
-    private String exitPoint;
+    private final int id;
+    private final String vehicleType;
+    private final double remainingBatteryPercentage;
+    private final String entryPoint;
+    private final String exitPoint;
 
     public TripInfo(int id, String vehicleType, double remainingBatteryPercentage, String entryPoint, String exitPoint) {
         this.id = id;
